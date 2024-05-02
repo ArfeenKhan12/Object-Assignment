@@ -1,0 +1,17 @@
+.main-card{
+    border: 1px solid black;
+    width: 300px;
+    padding: 40px;
+    gap: 60px;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 27px;
+    
+}
+.bg-color{
+    background-color: #FC766AFF;
+}
+#bg-card{
+    background-color:#5B84B1FF ;
+}
